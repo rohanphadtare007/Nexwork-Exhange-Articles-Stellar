@@ -45,7 +45,7 @@ export default function WalletConnect() {
 
             <h2 className="modal-title">Connect Wallet</h2>
             <p className="modal-subtitle">
-              Connect your Freighter wallet to access Skill-Share Platform
+              Sign-In Nexwork
             </p>
 
             {error && <p className="modal-error">{error}</p>}
